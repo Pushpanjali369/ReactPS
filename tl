@@ -9,3 +9,10 @@
 //   ],
 // })
 // @import "tailwindcss";
+
+<FaRegBell />
+<MdOutlineVideoCall  />
+ <FaMicrophone/>
+  <IoIosSearch size={"24px"} />
+  <FiMenu
+   <img src={"/logo.png"} alt="" className="w-28 cursor-pointer" />
